@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <addon id="skin.transparency" version="8.0.4" name="Transparency!" provider-name="ronie">
 	<requires>
 		<import	addon="xbmc.gui" version="5.9.0"/>
@@ -80,6 +80,6 @@
 		<forum>http://forum.kodi.tv/forumdisplay.php?fid=115</forum>
 		<website></website>
 		<email></email>
-		<source>https://github.com/ronie/skin.transparency/</source>
+		<source>https://github.com/vonkilljoy/skin.transparency/</source>
 	</extension>
 </addon>

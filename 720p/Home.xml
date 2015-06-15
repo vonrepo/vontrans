@@ -75,6 +75,7 @@
 					<height>74</height>
 					<texture>Header.png</texture>
 				</control>
+				<include condition="!Skin.HasSetting(Show_Custom_Home_Logo)">Logo</include>
 				<control type="grouplist">
 					<posx>0</posx>
 					<posy>0</posy>

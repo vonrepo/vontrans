@@ -1598,6 +1598,15 @@
 		<aligny>center</aligny>
 		<font>font-20</font>
 	</include>
+	<include name="Logo">
+    <control type="image">
+    <posx>15</posx>
+    <posy>15</posy>
+    <width>100</width>
+    <height>50</height>
+    <texture>kodi-logo.png</texture>
+    </control>
+  </include>
 	<include name="MusicPlayerAlbum">
 		<font>font-40</font>
 		<textcolor>99999999</textcolor>
