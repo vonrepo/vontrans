@@ -626,7 +626,7 @@
 		<value condition="Skin.String(SkinSettings,5)">$LOCALIZE[31200]</value>
 		<value condition="Skin.String(SkinSettings,6)">$LOCALIZE[31138]</value>
 		<value condition="Skin.String(SkinSettings,7)">$LOCALIZE[14018]</value>
-		<value condition="Skin.String(SkinSettings,10)">Transparency!</value>
+		<value condition="Skin.String(SkinSettings,10)">vonTransparency!</value>
 	</variable>
 	<variable name="SkinSettingsSlider">
 		<value condition="!ControlGroup(141).HasFocus">list-nofocus.png</value>

@@ -1,7 +1,7 @@
 # Kodi Media Center language file
-# Addon Name: Transparency!
-# Addon id: skin.transparency
-# Addon Provider: ronie
+# Addon Name: vonTransparency!
+# Addon id: skin.vontransparency
+# Addon Provider: ronie, VonRepo
 msgid ""
 msgstr ""
 "Project-Id-Version: XBMC Skins\n"
@@ -277,8 +277,8 @@ msgid "Use posters"
 msgstr "Brug plakater"
 
 msgctxt "#31140"
-msgid "I hate Transparency!"
-msgstr "Jeg hader Transparency!"
+msgid "I hate vonTransparency!"
+msgstr "Jeg hader vonTransparency!"
 
 msgctxt "#31142"
 msgid "Fanart - Medium list"
@@ -369,8 +369,8 @@ msgid "[B]CONFIGURE APPEARANCE SETTINGS[/B][CR]Select a skin - Set language and 
 msgstr "[B]KONFIGURER UDSEENDE[/B][CR]Vælg et skin - Vælg land og region - Ændr indstillinger for fillistning[CR]Opsæt pauseskærm"
 
 msgctxt "#31168"
-msgid "[B]CONFIGURE SKIN SETTINGS[/B][CR]Setup the Transparency! skin - Add and remove home menu items[CR]Change skin backgrounds"
-msgstr "[B]KONFIGURER SKININDSTILLINGER[/B][CR]Indstil Transparency! temaet - Tilføj og fjern elementer i hovedmenuen[CR]Skift baggrunde"
+msgid "[B]CONFIGURE SKIN SETTINGS[/B][CR]Setup the vonTransparency! skin - Add and remove home menu items[CR]Change skin backgrounds"
+msgstr "[B]KONFIGURER SKININDSTILLINGER[/B][CR]Indstil vonTransparency! temaet - Tilføj og fjern elementer i hovedmenuen[CR]Skift baggrunde"
 
 msgctxt "#31169"
 msgid "[B]CONFIGURE ADD-ONS[/B][CR]Manage your installed Add-ons - Browse for and install Add-ons from kodi.tv[CR]Modify Add-on settings"

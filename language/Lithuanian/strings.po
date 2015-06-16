@@ -1,7 +1,7 @@
 # Kodi Media Center language file
-# Addon Name: Transparency!
-# Addon id: skin.transparency
-# Addon Provider: ronie
+# Addon Name: vonTransparency!
+# Addon id: skin.vontransparency
+# Addon Provider: ronie, VonRepo
 msgid ""
 msgstr ""
 "Project-Id-Version: XBMC Skins\n"
@@ -293,8 +293,8 @@ msgid "Use posters"
 msgstr "Naudoti plakatus"
 
 msgctxt "#31140"
-msgid "I hate Transparency!"
-msgstr "Aš nekenčiu Transparency!"
+msgid "I hate vonTransparency!"
+msgstr "Aš nekenčiu vonTransparency!"
 
 msgctxt "#31142"
 msgid "Fanart - Medium list"
@@ -385,7 +385,7 @@ msgid "[B]CONFIGURE APPEARANCE SETTINGS[/B][CR]Select a skin - Set language and 
 msgstr "[B]VIRŠELIO PARAMETRŲ NUSTATYMAI[/B][CR]Pakeisti išvaizdą - Nustatyti kalbą ir regioną - Pakeisti failų sarašą - Nustatyti ekrano vaizdą"
 
 msgctxt "#31168"
-msgid "[B]CONFIGURE SKIN SETTINGS[/B][CR]Setup the Transparency! skin - Add and remove home menu items[CR]Change skin backgrounds"
+msgid "[B]CONFIGURE SKIN SETTINGS[/B][CR]Setup the vonTransparency! skin - Add and remove home menu items[CR]Change skin backgrounds"
 msgstr "[B]IŠVAIZDOS PARAMETRŲ NUSTATYMAI[/B][CR]Nustatyti pasirinktą šabloną - Pakeisti šablono foną - Pridėti ir/ar pašalinti pagrindinius menių punktus"
 
 msgctxt "#31169"

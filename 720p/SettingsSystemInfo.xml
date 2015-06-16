@@ -157,11 +157,11 @@
 					<font>font-20</font>
 				</control>
 				<control type="label">
-					<description>Transparency! Version</description>
+					<description>vonTransparency! Version</description>
 					<posx>0</posx>
 					<posy>370</posy>
 					<width>880</width>
-					<label>$INFO[System.AddonTitle(skin.transparency)]  $INFO[System.AddonVersion(skin.transparency)]</label>
+					<label>$INFO[System.AddonTitle(skin.vontransparency)]  $INFO[System.AddonVersion(skin.vontransparency)]</label>
 					<textcolor>blue</textcolor>
 					<shadowcolor>black</shadowcolor>
 					<font>font-20</font>

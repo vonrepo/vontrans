@@ -1,7 +1,7 @@
 # Kodi Media Center language file
-# Addon Name: Transparency!
-# Addon id: skin.transparency
-# Addon Provider: ronie
+# Addon Name: vonTransparency!
+# Addon id: skin.vontransparency
+# Addon Provider: ronie, VonRepo
 msgid ""
 msgstr ""
 "Project-Id-Version: XBMC Skins\n"
@@ -221,8 +221,8 @@ msgid "Use posters"
 msgstr "Koristi postere"
 
 msgctxt "#31140"
-msgid "I hate Transparency!"
-msgstr "Ja mrzim Transparency!"
+msgid "I hate vonTransparency!"
+msgstr "Ja mrzim vonTransparency!"
 
 msgctxt "#31143"
 msgid "Fanart - Short list"
